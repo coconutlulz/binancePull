@@ -18,3 +18,5 @@ class binancePull():
     length=print_list_length()
     print(length)
     
+    x = "d"
+    
